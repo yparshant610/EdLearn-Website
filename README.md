@@ -29,7 +29,7 @@ EdLearn is a platform created using Wix for college students to connect, collabo
 
 <table>
   <tr>
-    <td><img src="assets/screenshots/edlearn-homepage.png.png" width="300"/></td>
+    <td><img src="assets/screenshots/edlearn-homepage.png" width="300"/></td>
     <td><img src="assets/screenshots/Programming Languages.png" width="300"/></td>
   </tr>
   <tr>
@@ -40,7 +40,6 @@ EdLearn is a platform created using Wix for college students to connect, collabo
     <td><img src="assets/screenshots/Us.png" width="300"/></td>
     <td><img src="assets/screenshots/We provide.png" width="300"/></td>
   </tr>
-  </tr>
   <tr>
     <td><img src="assets/screenshots/Contact us.png" width="300"/></td>
     <td><img src="assets/screenshots/Books.png" width="300"/></td>
@@ -48,7 +47,9 @@ EdLearn is a platform created using Wix for college students to connect, collabo
   <tr>
     <td><img src="assets/screenshots/Group.png" width="300"/></td>
     <td><img src="assets/screenshots/Group inside.png" width="300"/></td>
-    <td><img src="assets/screenshots/Programming Languages.png"/></td>
-    <td><img src="assets/screenshots/Sign_Up.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/Sign_Up.png" width="300"/></td>
+    <td><img src="assets/screenshots/Programming Languages.png" width="300"/></td>
   </tr>
 </table>
