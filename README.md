@@ -24,32 +24,38 @@ EdLearn is a platform created using Wix for college students to connect, collabo
 - Improved skills in UI/UX using no-code tools
 - Gained experience in designing and deploying user-friendly websites
 
-<h2>📷 Project Screenshots</h2>
-<p>Here are some visuals from the EdLearn platform:</p>
+## 📷 Project Screenshots
 
-<table>
-  <tr>
-    <td><img src="assets/screenshots/edlearn-homepage.png" width="300"/></td>
-    <td><img src="assets/screenshots/Programming Languages.png" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="assets/screenshots/Cyber Security.png" width="300"/></td>
-    <td><img src="assets/screenshots/Desgining.png" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="assets/screenshots/Us.png" width="300"/></td>
-    <td><img src="assets/screenshots/We provide.png" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="assets/screenshots/Contact us.png" width="300"/></td>
-    <td><img src="assets/screenshots/Books.png" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="assets/screenshots/Group.png" width="300"/></td>
-    <td><img src="assets/screenshots/Group inside.png" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="assets/screenshots/Sign_Up.png" width="300"/></td>
-    <td><img src="assets/screenshots/Programming Languages.png" width="300"/></td>
-  </tr>
-</table>
+### 🏠 Homepage  
+![Homepage](assets/screenshots/edlearn-homepage.png)
+
+### 💻 Programming Languages  
+![Programming Languages](assets/screenshots/Programming%20Languages.png)
+
+### 🔐 Cyber Security  
+![Cyber Security](assets/screenshots/Cyber%20Security.png)
+
+### 🎨 Designing  
+![Designing](assets/screenshots/Desgining.png)
+
+### 👥 About Us  
+![About Us](assets/screenshots/Us.png)
+
+### 🚀 What We Provide  
+![We Provide](assets/screenshots/We%20provide.png)
+
+### 📞 Contact Us  
+![Contact Us](assets/screenshots/Contact%20us.png)
+
+### 📚 Books Section  
+![Books](assets/screenshots/Books.png)
+
+### 🧑‍🤝‍🧑 Groups  
+![Groups](assets/screenshots/Group.png)
+
+### 🔍 Group Inside View  
+![Group Inside](assets/screenshots/Group%20inside.png)
+
+### 📝 Sign Up Page  
+![Sign Up](assets/screenshots/Sign_Up.png)
+
